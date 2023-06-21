@@ -13,6 +13,10 @@
 ## Rails の構成管理ツールの名前は何でしたか？確認してみてください。
 　Bundler
 
+## アプリケーションの作動
+* ブラウザ画面 ![ブラウザ画面](./images/application-screen.png)
+* コンソール ![コンソール](./images/application-start.png)
+
 
 ## 今回の課題から学んだことを報告してください。
 
